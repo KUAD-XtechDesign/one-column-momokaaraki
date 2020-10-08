@@ -12,13 +12,4 @@ $(function(){
   $(".close_button").on("click",function(){
     $(this).parent(".content").slideUp("slow");
   })
-
-  $(".close_button2").on("click",function(){
-    $(this).parent(".content").slideUp("slow");
-  })
-  $(".close_button3").on("click",function(){
-    $(this).parent(".content").slideUp("slow");
-  })
-
-
 });
