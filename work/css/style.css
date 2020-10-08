@@ -109,8 +109,8 @@ img{
   padding: 10px;
   margin: 10px 0;
   border-radius: 5px;
-  background-color: rgb(246, 250, 21);
-  color: #fff;
+  background-color: rgb(255, 251, 4);
+  color: rgb(0, 0, 0);
   cursor: pointer;
   position: absolute;
   right: 30px;
