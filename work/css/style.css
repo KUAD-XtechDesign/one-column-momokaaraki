@@ -53,6 +53,22 @@ img{
   position: relative;
 }
 
+#img_button2{
+  transition: 0.5s all;
+  cursor: pointer;
+  max-width: 900px;
+  margin: 0 auto 50px;
+  position: relative;
+}
+
+#img_button3{
+  transition: 0.5s all;
+  cursor: pointer;
+  max-width: 900px;
+  margin: 0 auto 50px;
+  position: relative;
+}
+
 .img_button::after{
   content: "";
   display: block;
@@ -65,9 +81,14 @@ img{
   transition: 0.5s opacity;
 }
 
+
+
 .img_button:hover::after{
   opacity: 1;
 }
+
+
+
 
 /* 横並び追加 */
 .txt_img{
