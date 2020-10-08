@@ -39,19 +39,7 @@ img{
   top: 30px;
   transition: 0.5s all;
 }
-.close_button2{
-  display: inline-block;
-  padding: 10px;
-  margin: 10px 0;
-  border-radius: 5px;
-  background-color: rgb(74, 196, 84);
-  color: #fff;
-  cursor: pointer;
-  position: absolute;
-  right: 30px;
-  top: 30px;
-  transition: 0.5s all;
-}
+
 
 .close_button:hover{
   transform: rotate(360deg);
@@ -100,4 +88,18 @@ img{
 
 #img01{
   margin-top: 100px;
+}
+
+.close_button2{
+  display: inline-block;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  background-color: rgb(74, 196, 84);
+  color: #fff;
+  cursor: pointer;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  transition: 0.5s all;
 }
