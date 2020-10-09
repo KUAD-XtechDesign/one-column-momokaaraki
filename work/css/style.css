@@ -41,7 +41,7 @@ img{
   display: none;
   position: relative;
   padding: 30px;
-  background-color: rgb(254, 255, 184);
+  background-color: rgba(251, 252, 213, 0.61);
   margin-bottom: 50px;
 }
 
@@ -49,7 +49,7 @@ img{
   display: none;
   position: relative;
   padding: 30px;
-  background-color: rgb(184, 227, 255);
+  background-color: rgba(195, 226, 247, 0.507);
   margin-bottom: 50px;
 }
 
